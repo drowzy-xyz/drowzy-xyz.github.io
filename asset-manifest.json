@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b6142c32.css",
+    "main.js": "/static/js/main.e6051d43.js",
+    "static/js/872.207b980b.js": "/static/js/872.207b980b.js",
+    "static/media/backmusic.mp3": "/static/media/backmusic.5629faeab51971eed100.mp3",
+    "static/media/background.mp4": "/static/media/background.daebd006c8bbcdb64ed7.mp4",
+    "static/media/family-member-1.png": "/static/media/family-member-1.83f916abcc3f137bef4c.png",
+    "static/media/family-member-3.png": "/static/media/family-member-3.4054456dfa2eb91c62bb.png",
+    "static/media/family-member-2.png": "/static/media/family-member-2.aac6d8a82f1cb5486af3.png",
+    "static/media/family-member-0.png": "/static/media/family-member-0.159ae53dac4ff196b7b5.png",
+    "static/media/AliceInWonderland.ttf": "/static/media/AliceInWonderland.0507cab2c83d6d74ee2f.ttf",
+    "index.html": "/index.html",
+    "main.b6142c32.css.map": "/static/css/main.b6142c32.css.map",
+    "main.e6051d43.js.map": "/static/js/main.e6051d43.js.map",
+    "872.207b980b.js.map": "/static/js/872.207b980b.js.map"
+  },
+  "entrypoints": [
+    "static/js/872.207b980b.js",
+    "static/css/main.b6142c32.css",
+    "static/js/main.e6051d43.js"
+  ]
+}
